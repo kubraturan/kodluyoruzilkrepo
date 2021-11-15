@@ -1,0 +1,32 @@
+body{
+    background-color: #314e52;
+    color: #f2a154;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.navbar{
+    background-color: #e7e6e1;
+    width: 100vw;
+    height: 50px;
+    display: inline-block;
+    margin: 0;
+    padding-top: 25px;
+    position: sticky;
+}
+.navbar a{
+    text-decoration: none;
+    color: #314e52;
+    margin: 0px 30px;
+}
+.header{
+    width: 100vw;
+    height: auto;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.main-container{
+    margin: 50px 200px;
+}
